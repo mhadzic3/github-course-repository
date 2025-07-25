@@ -2,3 +2,5 @@
 Repository for Git and GitHub course.
 
 This line was modfified manually during conflicts resolution
+
+New line was added locally
